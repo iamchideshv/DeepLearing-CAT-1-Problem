@@ -33,7 +33,8 @@ This project predicts daily temperatures using historical weather data from the 
 Chidesh V
 732224AI014
 
-
+**OUTPUT
+**
 <img width="1189" height="490" alt="downloadimg" src="https://github.com/user-attachments/assets/6c2ac104-3679-4d1a-a828-ca1393cd88ef" />
 
 <img width="989" height="390" alt="download2img" src="https://github.com/user-attachments/assets/4a0c0b08-5c00-447f-9a50-c26d3d6c1661" />
