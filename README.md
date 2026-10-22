@@ -21,7 +21,7 @@ This project predicts daily temperatures using historical weather data from the 
 7. Demonstrate a 7-day temperature forecast.
 
 ## Google Colab Notebook
-[Open Weather Forecasting Notebook](https://colab.research.google.com/drive/1hqu5vHawHUsaETz1es-NPHWR6yJcxKB5?usp=sharing)
+**[Open Weather Forecasting Notebook](https://colab.research.google.com/drive/1hqu5vHawHUsaETz1es-NPHWR6yJcxKB5?usp=sharing)**
 
 ## Expected Output
 - Daily temperature predictions
@@ -30,4 +30,6 @@ This project predicts daily temperatures using historical weather data from the 
 - 7-day demonstration forecast
 
 ## Author
-Weather Forecasting Project
+Chidesh V
+732224AI014
+
