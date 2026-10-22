@@ -1,0 +1,5 @@
+# Weather Forecasting Using LSTM
+
+A deep learning project that predicts daily temperatures using historical weather data and an LSTM model. Performance is evaluated using MAE and RMSE.
+
+**Google Colab Notebook:** [Click here to view and run the project](https://colab.research.google.com/drive/1hqu5vHawHUsaETz1es-NPHWR6yJcxKB5?usp=sharing)
